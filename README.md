@@ -11,5 +11,5 @@ In this project I explore using R and ggplot2 a bikeshare data to find interesti
 3 csv files are used, one for each city, New York, Washington and Chicago. A Jupiter Notebook is used to do the exploration
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I used a lot of resources difficult to track them, but I can say would be impossible without Stack overflow website
 
