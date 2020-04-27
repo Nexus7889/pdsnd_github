@@ -2,7 +2,7 @@
 The project was created on April 2020 for the Programming for Data Science in R Nanodegree
 
 ### Project Title
-Replace the Project Title
+Explore bikeshare data
 
 ### Description
 Describe what your project is about and what it does
