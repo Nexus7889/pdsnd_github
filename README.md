@@ -5,7 +5,7 @@ The project was created on April 2020 for the Programming for Data Science in R 
 Explore bikeshare data
 
 ### Description
-Describe what your project is about and what it does
+In this project I explore using R and ggplot2 a bikeshare data to find interesting insights
 
 ### Files used
 Include the files used
