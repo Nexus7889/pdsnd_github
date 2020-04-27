@@ -8,7 +8,7 @@ Explore bikeshare data
 In this project I explore using R and ggplot2 a bikeshare data to find interesting insights
 
 ### Files used
-Include the files used
+3 csv files are used, one for each city, New York, Washington and Chicago. A Jupiter Notebook is used to do the exploration
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
